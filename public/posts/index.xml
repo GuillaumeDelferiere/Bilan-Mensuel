@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bilan Mensuel</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content on Bilan Mensuel</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 25 Feb 2025 13:39:29 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post Février 2025</title>
+      <link>http://localhost:1313/posts/2025-02-25-post-f%C3%A9vrier/</link>
+      <pubDate>Tue, 25 Feb 2025 13:39:29 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025-02-25-post-f%C3%A9vrier/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
