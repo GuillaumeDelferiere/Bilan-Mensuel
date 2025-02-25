@@ -7,17 +7,17 @@ title = "Mes Bilans Mensuels"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
-  dateFormat = "2 January 2006"
+  dateFormat = "January 2006"
 
   # mainSections = ["section1", "section2"]
   description = "Mes Bilans Mensuels"
 
 [params.author]
-  name = "@guillaumeDelferiere"
-  image = "img/author.jpg"
-  headline = "I'm only human"
-  bio = "A little bit about you"
-  # links = [
+  name = "Guillaume Delferiere"
+  image = "img/PercyJackson.jpg"
+  headline = "Bienvenue sur mon site !! Vous pourrez y retrouver mes bilans mensuels où je raconte un peu ce qui s'est passé dans ma vie. J'espère qu'ils vous plairont :))"
+  bio = "N'hésitez pas à me faire des retours si vous avez des suggestions/points à améliorer !!"
+  links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -30,12 +30,12 @@ title = "Mes Bilans Mensuels"
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
-  #   { github = "https://github.com/username" },
+     { github = "https://github.com/GuillaumeDelferiere" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { google-scholar = "https://scholar.google.com/citations?user=user-id" },
   #   { hashnode = "https://username.hashnode.dev" },
-  #   { instagram = "https://instagram.com/username" },
+     { instagram = "https://instagram.com/guillaumedelferiere" },
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { kofi = "https://ko-fi.com/username" },
@@ -64,4 +64,4 @@ title = "Mes Bilans Mensuels"
   #   { x-twitter = "https://twitter.com/username" },
   #   { youtube = "https://youtube.com/username" },
   #   { xing = "https://xing.com/profile/username" },
-  # ]
+  ]
