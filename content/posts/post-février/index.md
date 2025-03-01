@@ -15,7 +15,7 @@ categories:
 ## 📚 Livres
 #### 🔥 Tout Brûler de Lucile de Peslouan
 {{< figure
-    src="https://cdn1.booknode.com/book_cover/5473/tout_bruler-5473260-264-432.jpg"
+    src="https://s1.qwant.com/thumbr/195x283/2/0/1a38c5cb312f3889f568e34a1741112060cbace9a7fc24efc9d22d233647f0/th.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%3Fid%3DOIP.Q7jJTiseCEIiNT1wh_n0JwAAAA%26pid%3DApi&q=0&b=1&p=0&a=0"
     alt="Couverture du livre Tout Brûler"
     caption="Couverture du livre Tout Brûler de Lucile de Peslouan"
     >}}
