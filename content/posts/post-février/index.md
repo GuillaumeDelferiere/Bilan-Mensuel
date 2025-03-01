@@ -36,7 +36,7 @@ J'ai bien aimé ce livre qui aborde des thèmes difficiles avec une légèreté 
 Roman racontant les légendes Arthuriennes du point de vue d'Élaine de Shalott, conseillère d'Arthur et oracle, un don pouvant s'avérer une malédiction.  
 L'histoire se concentre sur toute la période avant le couronnement d'Arthur.
 
-J'ai trouvé ce livre super intéressant dans sa manière de ré-écrire les légendes Arthuriennes concernant Élaine. L'autrice est parvenue à reprendre l'histoire du poème de Tennyson qui, en plus d'être problématique, reflétait le sexisme inhérent des légendes Arthuriennes. L'autrice nous propose une vision où des femmes fortes, libérées des normes partiarcales, luttent contre le destin et jouent un rôle essentiel dans l'avenir du monde. 
+J'ai trouvé ce livre super intéressant dans sa manière de ré-écrire les légendes Arthuriennes concernant Élaine. L'autrice est parvenue à reprendre l'histoire du poème de Tennyson qui, en plus d'être problématique, reflétait le sexisme inhérent des légendes Arthuriennes. L'autrice nous propose une vision où des femmes fortes, libérées des normes patriarcales, luttent contre le destin et jouent un rôle essentiel dans l'avenir du monde. 
 
 #### 🏹 Atalante : La naissance d'une guerrière de Cassandre Lambert 
 {{< figure
@@ -60,8 +60,8 @@ Petit fun fact à propos de l'autrice : elle a participé à Koh-Lanta en 2024 !
     caption="Couverture du livre La trilogie des Torches : Songlight de Moira Buffini"
     >}}
 
-L'histoire prend place dans un futur post-apocalyptique où une forme immersive de télépathie, le Chant de Lumière, a émergé. Les individus dotés de ce don sont considérés comme Inhumain et sont pourchassés, emprisonnés ou éliminés par le régime oppressif de Brighland.  
-Nous suivons Elsa, une jeune femme dotée du Chant de Lumière, dans une société patriarcale répressive où la femme n'est considérée uniquement pour enfanter.  
+L'histoire prend place dans un futur post-apocalyptique où une forme immersive de télépathie, le Chant de Lumière, a émergé. Les individus dotés de ce don sont considérés comme Inhumains et sont pourchassés, emprisonnés ou éliminés par le régime oppressif de Brighland.  
+Nous suivons Elsa, une jeune femme dotée du Chant de Lumière, dans une société patriarcale répressive où la femme n'est considérée que enfanter.  
 Après un mariage forcé, elle décide de s'enfuir et entre en contact avec une autre femme dotée elle aussi du Chant de Lumière : Rossignol.  
 À deux, elles vont chercher un lieu où leur don serait célébré en affrontant un monde ravagé par la guerre et la discrimination.  
 
