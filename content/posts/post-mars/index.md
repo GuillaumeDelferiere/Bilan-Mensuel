@@ -12,7 +12,6 @@ categories:
 ---
 
 ## Livres
-
 #### 🎭 Le cycle des secrets Tome 1 : Les marches des Géants de Manon Fargetton
 {{< figure
     src="https://s2.qwant.com/thumbr/440x639/5/7/08d207d2d9cf65076d6acd645fa1d729e5473b0f24d48b1a138546ee819d3e/th.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%3Fid%3DOIP.rGeLBZuw-htMN7YWK_1sRgAAAA%26pid%3DApi&q=0&b=1&p=0&a=0"
