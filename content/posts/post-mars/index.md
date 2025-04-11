@@ -13,7 +13,7 @@ categories:
 
 ## Livres
 
-#### Le cycle des secrets Tome 1 : Les marches des Géants de Manon Fargetton
+#### 🎭 Le cycle des secrets Tome 1 : Les marches des Géants de Manon Fargetton
 {{< figure
     src="https://s2.qwant.com/thumbr/440x639/5/7/08d207d2d9cf65076d6acd645fa1d729e5473b0f24d48b1a138546ee819d3e/th.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%3Fid%3DOIP.rGeLBZuw-htMN7YWK_1sRgAAAA%26pid%3DApi&q=0&b=1&p=0&a=0"
     alt="Couverture Le cycle des secrets Tome 1 : Les marches des Géants"
@@ -24,7 +24,7 @@ L'histoire prend place dans la cité-état d'Aletheia en conflit avec l'Empire v
 
 J'ai eu un peu de mal au début car ce premier tome sert surtout à poser le cadre dans lequel l'histoire va se dérouler. Malgré tout, avec un peu de patience, j'ai découvert un univers riche avec une trame prenante. On y retrouve des intrigues politiques, des luttes de pouvoirs et de classes sociales ou encore des amours interdits. On sent le potentiel des différentes intrigues des personnages qui nous sont présentés et qui seront sûrement mieux exploitées dans les tomes suivants ! J'ai vraiment bien aimé le personnage d'Équinoxe qui se révèle être autant une protagoniste qu'une antagoniste, une dualité que je trouve particulièrement intéressante et qui fait d'elle un personnage super intriguant !! 
 
-#### Le cycle des secrets Tome 2 : Le don des Géants de Manon Fargetton
+#### 🎭 Le cycle des secrets Tome 2 : Le don des Géants de Manon Fargetton
 {{< figure
     src="https://s1.qwant.com/thumbr/440x638/9/8/defdbfbae31b62f7869c23730b0d7af6cdf921d75f82e6bd09f88a5cac8332/th.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%3Fid%3DOIP.mXE9cRcEZXK7txFWvT1noAAAAA%26pid%3DApi&q=0&b=1&p=0&a=0"
     alt="Couverture Le cycle des secrets Tome 2 : Le don des Géants"
@@ -36,7 +36,7 @@ L'Empire voisin se fait de plus en plus hostile sur les côtes d'Aletheia et les
 J'ai bien plus apprécié le tome 2 qui passe clairement à la vitesse supérieure par rapport au premier. On y retrouve l'univers intéressant avec des intrigues qui prennent de plus en plus d'ampleur ce qui rend le tome bien plus plaisant à lire !!
 J'ai beaucoup aimé le développement du personnage de Sol, orfèvre et membre de l'Assemblée venant de la Brèche, endroit où se trouvent tous les exclus de la société. J'ai aimé son combat contre les inégalités des deux mondes dont il fait partie. 
 
-#### Le cycle des secrets Tome 3 : Le palais des Géants de Manon Fargetton
+#### 🎭 Le cycle des secrets Tome 3 : Le palais des Géants de Manon Fargetton
 {{< figure
     src="https://s2.qwant.com/thumbr/344x500/c/c/79975a449aeb6049ac6ff2194f328fdd75b896496f74c5dbfe47f8330596f2/th.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%3Fid%3DOIP.CHBhzUHTjfSf6tuEqXabeAAAAA%26pid%3DApi&q=0&b=1&p=0&a=0"
     alt="Couverture Le cycle des secrets Tome 3 : Le palais des Géants"
@@ -50,7 +50,7 @@ Mon tome préféré de la série, j'ai vraiment adoré. Les intrigues nous tienn
 À contrario, j'ai trouvé l'intrigue concernant Équinoxe captivante. On trouve petit à petit des éléments de réponses aux questions posées dans les tomes précédents ce qui a clairement renforcé mon attachement au personnage. 
 J'ai bien aimé le dénouement de fin, je trouve qu'il conclut bien l'histoire de nos deux principales protagonistes que sont Lora et Équinoxe.
 
-#### Percy Jackson : Le calice des Dieux de Rick Riordan
+#### 🍸 Percy Jackson : Le calice des Dieux de Rick Riordan
 {{< figure
     src="https://s2.qwant.com/thumbr/474x715/7/b/813e3f5aff823e2745c88f43d35b93a19d2a2fc6e7ad4e8512be52b72342a7/th.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%3Fid%3DOIP.qnI-qB8JCLpWh5jce8h1XAHaLL%26pid%3DApi&q=0&b=1&p=0&a=0"
     alt="Couverture Percy Jackson : Le calice des Dieux"
@@ -62,7 +62,7 @@ Ce tome nous raconte la première quête initiée par Ganymède, l'échanson de 
 
 Étant le fan number one incontesté de Rick Riordan car j'ai grandi avec ses livres et lu toutes ses histoires, j'ai adoré cette nouvelle aventure de Percy Jackson ! On pourrait croire à un retour aux sources avec nos trois protagonistes initiaux de la série mais les personnages ont bien grandi depuis le premier tome et ça se ressent. Je trouve que Rick Riordan fait prendre à Percy une tournure intéressante, plus adulte en abordant des thèmes comme l'acceptation de la mortalité, de la vieillesse et la transition vers l'âge adulte. 
 
-#### Atalante : L'ascension d'une légende de Cassandre Lambert
+#### 🏹 Atalante : L'ascension d'une légende de Cassandre Lambert
 {{< figure
     src="https://s2.qwant.com/thumbr/338x500/5/1/c4d823d91ddc87577f3978d10f9c0b16f9fe6ff88550bdec918aff16a2cd86/th.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%3Fid%3DOIP.7lseJc3bfd2jPv3641oUTQFSH0%26pid%3DApi&q=0&b=1&p=0&a=0"
     alt="Couverture Atalante : L'ascension d'une légende "
@@ -73,7 +73,7 @@ Nous retrouvons Atalante pour la suite de ses aventures ! À la suite des évén
 
 J'ai préféré ce tome 2 au tome 1 car j'y ai retrouvé plus de personnages déjà connus et la quête de la toison d'or est plus entrainante que les intrigues du premier tome. On y retrouve une plume un peu plus mature que dans le premier tome bien que le public visé soit toujours aussi jeune. 
 
-#### La passe-miroir : Les fiancés de l'Hiver by Christelle Dabos
+#### 🪞 La passe-miroir : Les fiancés de l'Hiver by Christelle Dabos
 {{< figure
     src="https://cdn1.booknode.com/book_cover/283/la_passe_miroir_livre_1_les_fiances_de_lhiver-282811-264-432.webp"
     alt="Couverture La passe-miroir : Les fiancés de l'hiver "
@@ -89,7 +89,7 @@ J'ai vraiment aimé le développement du personnage d'Ophélie qui devient au fu
 
 ## Séries
 
-#### L'or à bout de bras 
+#### 🥇 L'or à bout de bras 
 {{< figure
     src="https://fr.web.img4.acsta.net/c_310_420/img/6f/99/6f99ba567c91eb05fa732d71fc5b2e05.jpg"
     alt="Série Netflix L'or à bout de bras"
@@ -103,7 +103,7 @@ La France n'a pas le talent de Team USA mais compense grâce à un jeu collectif
 J'ai vécu cette finale en direct et cet épisode m'a ravivée les émotions que j'ai éprouvé devant la masterclass de Stephen Curry qui est sûrement une des meilleures performances dans le sport. Tout simplement inarrêtable. 
 Mention spéciale à mon équipe préférée de la compétition, la Serbie, qui après avoir gagné la médaille de bronze, a décidé de se mettre la pire en buvant des bières pour le reste de la journée.
 
-#### Death Note
+#### 💀 Death Note
 {{< figure
     src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnMFviALW_8C4qmxqwrgBIKg86-Qk3wD3qDxb8WBwqeFFyZE_3yjLwizIzsPtuuqVHGCzpOlKXastSps2AuODkcMXserEprVJDlzA-P3JFDnVB9aFUysB0nfTyy-b6jkaySiFQM2ZI7mU/s1600/Death-Note-Anime.jpg"
     alt="Série Death Note"
@@ -117,7 +117,7 @@ Petite remarque : ne regardez jamais le film sur Netflix, je pense que c'est le 
 
 ## Vidéos 
 
-#### Géorgie : le rêve de l'Europe envolé ? by Arte 
+#### 🇬🇪 Géorgie : le rêve de l'Europe envolé ? by Arte 
 {{< figure
     src="https://api-cdn.arte.tv/img/v2/image/EJQDDsg3gTcVniZBwCH9iW/1920x1080?type=TEXT&watermark=true"
     alt="Vidéo Géorgie : le rêve de l'Europe envolé by Arte"
@@ -128,7 +128,7 @@ Reportage intéressant comme porte d'entrée pour comprendre les manifestations 
 Pour creuser un peu plus si le sujet vous intéresse, je vous recommande le compte Instagram : ocmedia_caucasus ou encore le compte Instagram de la brillante journaliste Juliette Vandestraete qui est clairement une experte sur le sujet étant donné qu'elle est allée sur le terrain ! 
  
 
-#### Viril (3 épisodes) by Arte
+#### 🫃 Viril (3 épisodes) by Arte
 {{< figure
     src="https://i.ytimg.com/vi/4KfpZQjv7Lc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCj7ar-mFig0ABm8tqju4bqEjU2GQ"
     alt="Série Viril by Arte"
@@ -145,7 +145,7 @@ Le troisième épisode explore le monde du travail et de la politique où la vir
 
 L'épisode 2 est clairement celui que j'ai trouvé le plus intéressant. On peut retrouver dans ces discours masculinistes, différentes personnalités que j'ai déjà vues sur les réseaux sociaux. J'ai trouvé super intéressant de pouvoir avoir une analyse plus profonde que mes sentiments qui étaient "C'est quoi ces propos d'abrutis finis" pour comprendre en quoi ces discours sont complètements débiles en plus d'être dangereux. Je recommande d'aller voir la série afin de pouvoir repérer ces discours à vomir et dangereux, et ainsi mieux s'en affranchir. 
 
-#### Japon : le sushi by Arte
+#### 🍣 Japon : le sushi by Arte
 {{< figure
     src="https://api-cdn.arte.tv/img/v2/image/hvZRi25tWr8L7KUXLxPwu8/1920x1080?type=TEXT&watermark=true"
     alt="Le chef Hiroyuki préparant un sushi"
