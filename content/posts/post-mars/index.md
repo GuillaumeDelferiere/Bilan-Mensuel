@@ -63,7 +63,7 @@ Ce tome nous raconte la première quête initiée par Ganymède, l'échanson de 
 
 #### 🏹 Atalante : L'ascension d'une légende de Cassandre Lambert
 {{< figure
-    src="https://s2.qwant.com/thumbr/338x500/5/1/c4d823d91ddc87577f3978d10f9c0b16f9fe6ff88550bdec918aff16a2cd86/th.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%3Fid%3DOIP.7lseJc3bfd2jPv3641oUTQFSH0%26pid%3DApi&q=0&b=1&p=0&a=0"
+    src="https://cdn1.booknode.com/book_cover/5595/atalante_tome_2_lascension_dune_legende-5594886-264-432.webp"
     alt="Couverture Atalante : L'ascension d'une légende "
     caption="Couverture du livre Atalante : L'ascension d'une légende de Cassandre Lambert"
     >}}
