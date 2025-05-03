@@ -5,7 +5,7 @@ description: |
 date: 2025-04-07T06:56:36.556Z
 summary: Voici le bilan d'Avril 2025
 preview: ""
-draft: true
+draft: false
 tags: []
 categories:
     - "2025"
