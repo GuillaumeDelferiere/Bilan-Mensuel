@@ -110,7 +110,7 @@ Mention spéciale pour la fin du jeu qui est sans doute l'un de mes moments les 
 ***
 ## 🎒 Cours 
 #### 🌐 Réseaux d'entreprises
-![Photo de groupe Ti](/images/image.png)
+![Photo de groupe Ti](/images/post-février/groupeTi.png)
 
 Expérience incroyable d'une semaine à configurer un réseau complet à la manière d'une entreprise, avec une ambiance de groupe exceptionnelle.  
 Sûrement ma meilleure expérience de groupe à l'Ephec !  
