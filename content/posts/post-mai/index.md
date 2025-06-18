@@ -206,13 +206,13 @@ La ville est super agréable, on peut passer d'un environnement urbain hyperstim
 J'ai adoré les quartiers de Ginza et Shibuya. Par contre le Shibuya Crossing, c'est surcoté de fou, il est vraiment minuscule mdr.
 
 {{< figure
-    src="/images/post-mai/Japon4.heic"
+    src="/images/post-mai/Japon4.jpeg"
     alt="Torii d'un parc à Tokyo"
     caption=" "
     >}}
 
 {{< figure
-    src="/images/post-mai/Japon5.heic"
+    src="/images/post-mai/Japon5.jpeg"
     alt="Intérieur d'un temple à Tokyo"
     caption=""
     >}}
@@ -224,7 +224,7 @@ Le restaurant ne payait pas de mine et pourtant, ce sont les meilleurs tempuras 
 J'ai faim rien que d'y penser.
 
 {{< figure
-    src="/images/post-mai/Kanazawa.heic"
+    src="/images/post-mai/Kanazawa.jpeg"
     alt="Jardin du Château de Kanazawa"
     caption=""
     >}}
@@ -235,14 +235,14 @@ La cérémonie du thé était vraiment super avec la geisha super drôle qui nou
 Le sanctuaire Fushimi Inari-taisha était vraiment à couper le souffle. C'est une promenade qui grimpe le mont Inari bordée de torii rouge de chaque côté du chemin. Bon par contre c'est assez long avec vraiment beaucoup d'escaliers mais le chemin jusqu'au sommet en vaut le coup, y'a beaucoup moins de touristes et donc c'est plus propice pour faire les meilleures photos !! Donc on enfile une bonne paire de baskets, on s'arme d'eau et de courage et on part suer durant une bonne heure et demie.
 
 {{< figure
-    src="/images/post-mai/Japon1.HEIC"
+    src="/images/post-mai/Japon1.jpeg"
     alt="Miniature du film Mon voisin Totoro by Hayao Miyazaki"
     caption="Sanctuaire Fushimi Inari-taisha"
     >}}
 
 
 {{< figure
-    src="/images/post-mai/Japon2.HEIC"
+    src="/images/post-mai/Japon2.jpeg"
     alt="Miniature du film Mon voisin Totoro by Hayao Miyazaki"
     caption="Moi et mon meilleur pote Totoro"
     >}}
@@ -252,7 +252,7 @@ Bon je vais pas vous raconter ce qui s'est passé à Hiroshima, on y allait clai
 J'ai donc trouvé le contraste du musée et des rues très bizarre mais c'était tellement chouette de voir autant de bonheur dans une ville qui a connu le pire. 
 
 {{< figure
-    src="/images/post-mai/Hiroshima.HEIC"
+    src="/images/post-mai/Hiroshima.jpeg"
     alt="Vestiges du dernier bâtiment d'avant le bombardement"
     caption="Vestiges du dernier bâtiment d'avant le bombardement"
     >}}
@@ -265,19 +265,19 @@ Préparez vous aussi à courir parce que dès l'ouverture du parc, les gens se m
 Il y a aussi une partie dédiée à Harry Potter qui est vraiment chouette avec une reproduction de Poudlard !  
 Nous avons aussi été à Nara, lieu ultra connu pour ses daims sacrés en liberté qui vous saluent lorsque vous les saluez ! Super drôle à faire bien que fort touristique. 
 {{< figure
-    src="/images/post-mai/Universal.HEIC"
+    src="/images/post-mai/Universal.jpeg"
     alt="Monde Donkey Kong à Nintendo World"
     caption="Monde Donkey Kong à Nintendo World"
     >}}
 
 {{< figure
-    src="/images/post-mai/Universal2.HEIC"
+    src="/images/post-mai/Universal2.jpeg"
     alt="Reproduction de Poudlard"
     caption="Reproduction de Poudlard"
     >}}
 
 {{< figure
-    src="/images/post-mai/Japon3.HEIC"
+    src="/images/post-mai/Japon3.jpeg"
     alt="le Boss de Nara"
     caption="Le Boss de Nara"
     >}}
@@ -287,7 +287,7 @@ Ville située autour du lac volcanique d'origine naturelle Kawaguchi, c'est un d
 Alors je vous préviens, il faut avoir beaucoup de chance pour le voir en clair à cette période de l'année. On a eu 5 minutes pour faire un max de photos et taper nos meilleurs sourires !!
 
 {{< figure
-    src="/images/post-mai/Fuji.HEIC"
+    src="/images/post-mai/Fuji.jpeg"
     alt="Mont Fuji"
     caption="Merci d'avoir lu mon bilan, Bisous <3"
     >}}
