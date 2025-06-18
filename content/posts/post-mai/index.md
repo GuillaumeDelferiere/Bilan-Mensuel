@@ -5,7 +5,7 @@ description: |
 date: 2025-05-13T06:56:36.556Z
 summary: Voici le bilan de Mai 2025
 preview: ""
-draft: True
+draft: False
 tags: []
 categories:
     - "2025"
