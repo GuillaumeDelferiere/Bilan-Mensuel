@@ -33,7 +33,7 @@ Mon conseil : on s'installe confortablement, on s'arme d'un grand ice latte et o
 {{< figure
     src="/images/post-mai/uneBraiseSousLaCendre.jpeg"
     alt="Couverture de La passe-miroir : La tempête des échos de Christelle Dabos"
-    caption="Couverture de La passe-miroir : La tempête des échos de Christelle Dabos"
+    caption="Couverture d'Une braise sous la Cendre de Sabaa Tahir"
     >}}
 
 
