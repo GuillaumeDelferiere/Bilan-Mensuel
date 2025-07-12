@@ -13,7 +13,7 @@ categories:
 
 ## 📚 Livres 📚
 
-#### Une Torche dans la nuit de Sabaa Tahir
+#### 🔥 Une Torche dans la nuit de Sabaa Tahir 🔥
 {{< figure
     src="/images/post-juin/uneTorcheDansLaNuit.jpeg"
     alt="Couverture de Une Torche dans la Nuit de Sabaa Tahir"
@@ -29,7 +29,7 @@ Suite d'Une braise sous la cendre, véritable coup de cœur, j'en attendais beau
 Bref, c'est du kiff en livre donc on arrête de se trouver des excuses et on va me lire cette série de folie !!
 
 
-#### Les Olympes
+#### 🥇 Les Olympes 🥇
 {{< figure
     src="/images/post-juin/LesOlympes.jpeg"
     alt="Couverture de Les Olympes"
@@ -44,7 +44,7 @@ Super livre !! Je trouve qu'il est important de donner de la lumière au sport f
 Donc on range ses préjugés et on va donner de la force aux sports féminins en allant regarder l'Euro !!
 
 ## 📺 Vidéos 📺
-#### Masculinistes : l'outrance décomplexée by Arte
+#### 🤡 Masculinistes : l'outrance décomplexée by Arte 🤡
 {{< figure
     src="/images/post-juin/Mascu.jpg"
     alt="Miniature de la vidéo Masculinites : l'outrance décomplexée by Arte"
@@ -63,7 +63,7 @@ Mélissa Blais, sociologue et historienne du masculinisme, qui nous évoque l'é
 Le documentaire met en garde face à ces discours qui nourrissent une culture de la haine en ligne et peuvent inspirer des actes violents contre les femmes.
 Bref, on signale ce genre de vidéo et on devient une meilleure personne :)
 
-#### Quel est le pouvoir de la désinformation ? by Arte
+#### 🤖 Quel est le pouvoir de la désinformation ? by Arte 🤖
 {{< figure
     src="/images/post-juin/désinformation.jpg"
     alt="Miniature de Quel est le pouvoir de la désinformation ? by Arte"
@@ -82,7 +82,7 @@ Le documentaire nous donne aussi quelques pistes pour lutter contre le phénomè
 ## ✈️ Toronto ✈️
 J'ai eu la chance de pouvoir passer 2 semaines à Toronto pour les cours, où j'ai pu apprendre un nouveau langage et développer une application fonctionnelle !! J'étais avec 9 autres étudiants belges, 5 étudiants danois et 10 étudiants canadiens, donc un assez grand groupe.
 
-#### Cours 
+#### 🎒 Cours 🎒
 Nous avons d'abord dû apprendre le nouveau langage pour pouvoir coder notre application mobile. C'était vraiment super enrichissant d'apprendre en groupe sur un sujet qui m'intéresse et qui me sera important pour mon futur !! Nous avons ensuite formé des groupes pour concevoir une application, du concept au produit final. J'étais avec un autre étudiant belge et 2 étudiants canadiens. Nous avions choisi de développer une librairie virtuelle avec une fonctionnalité de partage de livres via des boîtes à livres (mon idée omggg). Bon, malheureusement, on n’a pas gagné le concours, mais c'est pas grave, notre application est quand même meilleure. Oui, c'est mon avis, oui, je suis sûrement biaisé, mais je m'en fiche :)) 
 
 {{< figure
@@ -103,7 +103,7 @@ Nous avons d'abord dû apprendre le nouveau langage pour pouvoir coder notre app
     caption="Quelques screens de mon app :))"
     >}}
 
-#### Activité
+#### 🚶‍♂️ Activité 🚶‍♂️‍➡️
 Nous n'avions pas cours les week-ends et nous avons aussi eu 2 jours fériés, donc nous avons pu profiter de la ville et de différentes activités.
 Nous avons pu faire de la patinoire dans un complexe de hockey sur glace. Bon, vu le niveau de tout le monde, c'était un peu la cata, mais c'était quand même super amusant ! Entre chutes et rires, on a pu profiter pendant 1h30 d'une patinoire rien que pour nous.
 J'ai aussi été aux chutes du Niagara ! Alors, c'est super beau, même les parcs aux alentours des points de vue, mais je pense que c'est un peu surcoté aussi mdr. Tout est vraiment cher là-bas, et une fois qu'on a vu les chutes, il n'y a plus grand-chose à faire, à moins d'avoir le portefeuille de Jeff Bezos. En plus, c'était assez loin de Toronto (4 à 6 heures de transport aller-retour), donc je suis content d'y être allé pour l'expérience, mais pas sûr que je réitère.
