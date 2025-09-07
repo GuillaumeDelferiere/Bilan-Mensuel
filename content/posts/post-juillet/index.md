@@ -5,7 +5,7 @@ description: |
 date: 2025-07-21T06:56:36.556Z
 summary: Voici le bilan de Juin 2025
 preview: ""
-draft: True
+draft: False
 tags: []
 categories:
     - "2025"
@@ -105,6 +105,6 @@ L'histoire est clairement digne d'un film genre c'était vraiment une mafia !! O
 Le jeu se déroule à Bagdad au IXe siècle, à l'apogée de l'âge d'or abbasside, une période de grande richesse culturelle, scientifique et politique.  
 Nous incarnons Basim Ibn Ishaq, jeune voleur des rues hanté par un djinn. Après une mission pour les assassins, Basim va être recruté par ceux-ci. Au fil de l'aventure, Basim va traquer les membres de l'Ordre des Anciens, une organisation secrète cherchant à contrôler l'humanité mais aussi en découvrir plus sur son passé... 
 
-J'ai vraiment bien aimé !! On retourne sur un Assassin's Creed un peu plus traditionnel par rapport aux deux opus précédent. J'ai vraiment adoré me balader dans Bagdad qui est vraiment magnifique dans le jeu. La culture orientale y est bien retranscrie je trouve et l'histoire est sympa.  
+J'ai vraiment bien aimé !! On retourne sur un Assassin's Creed un peu plus traditionnel par rapport aux deux opus précédent. J'ai vraiment adoré me balader dans Bagdad qui est vraiment magnifique dans le jeu. L'ambiance de la ville y est bien retranscrie je trouve et l'histoire est sympa.  
 Le jeu est plus trop cher pour les kiffeurs sur pc donc foncez !!  
 Pour les autres, vendez votre console et achetez un pc.
