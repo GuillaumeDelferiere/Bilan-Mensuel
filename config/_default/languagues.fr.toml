@@ -15,7 +15,7 @@ title = "Mes Bilans Mensuels"
 [params.author]
   name = "Guillaume Delferiere"
   image = "img/PercyJackson.jpg"
-  headline = "Bienvenue sur mon site !! Vous pourrez y retrouver mes bilans mensuels où je raconte un peu ce qui s'est passé dans ma vie. J'espère qu'ils vous plairont :))"
+  headline = "Bienvenue sur mon site !! Vous pourrez y retrouver mes bilans mensuels où je raconte un peu ce qu'il s'est passé dans ma vie. J'espère qu'ils vous plairont :))"
   bio = "N'hésitez pas à me faire des retours si vous avez des suggestions/points à améliorer 🫰"
   links = [
   #   { email = "mailto:hello@your_domain.com" },
